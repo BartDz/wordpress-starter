@@ -1,0 +1,3 @@
+classic-editor
+create-block-theme
+# empty line at the end
